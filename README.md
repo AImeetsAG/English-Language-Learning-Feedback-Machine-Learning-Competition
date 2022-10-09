@@ -1,10 +1,10 @@
 # English Language Learning Feedback Project
 ## Team Narwal
 ### Team Members
-**Abhinav Chand**
-**Zhaobidan Feng**
-**Arpan Pal**
-**Moyi Tian**
+**Abhinav Chand**, 
+**Zhaobidan Feng**, 
+**Arpan Pal**, 
+**Moyi Tian**, 
 **Meng Ting**
 
 This is the team repository of team **_Narwal_** at Fall 2022 Bootcamp at Erdos institute. 
