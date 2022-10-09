@@ -2,10 +2,10 @@
 ## Team Narwal
 ### Team Members
 [**Abhinav Chand**](https://github.com/AImeetsAG),  
-**Zhaobidan Feng**, 
-**Arpan Pal**, 
-**Moyi Tian**, 
-**Meng Ting**
+[**Zhaobidan Feng**](https://github.com/AmyFengzhao), 
+[**Arpan Pal**](https://github.com/arpan-pal), 
+[**Moyi Tian**](https://github.com/Moyi-Tian), 
+[**Meng Ting**](https://github.com/LineCCC)
 
 This is the team repository of team **_Narwal_** at Fall 2022 Bootcamp at Erdos institute. 
 This repository hosts our work on the English Language Learning Feedback competition hosted over Kaggle.
