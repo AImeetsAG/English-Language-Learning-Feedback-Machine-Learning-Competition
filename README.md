@@ -1,7 +1,7 @@
 # English Language Learning Feedback Project
 ## Team Narwal
 ### Team Members
-<a href="https://github.com/AImeetsAG" Abhinav Chand</a>,  
+[1]:https://github.com/AImeetsAG "Abhinav Chand",  
 **Zhaobidan Feng**, 
 **Arpan Pal**, 
 **Moyi Tian**, 
