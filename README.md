@@ -1,8 +1,6 @@
 # English Language Learning Feedback Project
 ## Team Narwal
-
-###Team Members
-
+### Team Members
 **Abhinav Chand**
 **Zhaobidan Feng**
 **Arpan Pal**
