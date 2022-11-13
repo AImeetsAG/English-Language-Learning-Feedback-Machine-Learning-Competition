@@ -1,5 +1,5 @@
 # English Language Learning Feedback Project
-## Team Narwal
+## Team Narwhal
 ### Team Members
 
 [**Abhinav Chand**](https://github.com/AImeetsAG),
