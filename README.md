@@ -32,4 +32,12 @@ Our evaluation metric is the mean column-wise root mean squared error (MCRMSE). 
 
 ---
 
+## Conclusion
 
+- DeBERTa plus pooling has the best performance. It improves MCRMSE by 32.6% compared with the baseline.
+
+- The transformer models (e.g. BERT and DeBERTa) perform better than traditional neural network architectures (e.g. LSTM and feedforward dense layers) and tree classification models (e.g. XGBoost) in English language proficiency evaluation. To potentially improve the performance of the transformer models, we can explore more variations of pooling like LSTM pooling, attention pooling, weighted layer pooling, etc. We can also extend training time or epochs on BERT and DeBERTa, which will require more computing resources.
+
+- It would be better to apply data augmentation, which helps deal with imbalance of data. Furthermore, different preprocessing methods tailored to our measures may help extract important features for training.
+
+- Better interpretability of our models can provide more detailed features and feedback on essays to help language learners and teachers.
