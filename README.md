@@ -1,3 +1,9 @@
+<img
+  src="/images/English Language.jpg"
+  title="Pipeline"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+
 # English Language Learning Feedback Project
 ## Team Narwhal
 ### Team Members
